@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.24)  14 SEP 2015 13:15
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.24)  14 SEP 2015 13:44
 entering extended mode
 **itp2.tex
 (C:\Users\Emil\Documents\GitHub\itp2\itp2.tex
@@ -299,25 +299,25 @@ Overfull \hbox (28.68927pt too wide) in paragraph at lines 99--100
 is-erede tinglysning,
  []
 
-[3] [4] (C:\Users\Emil\Documents\GitHub\itp2\itp2.aux) ) 
+[3] [4] [5] (C:\Users\Emil\Documents\GitHub\itp2\itp2.aux) ) 
 Here is how much of TeX's memory you used:
  483 strings out of 493921
  5169 string characters out of 3147284
- 55056 words of memory out of 3000000
+ 56056 words of memory out of 3000000
  3830 multiletter control sequences out of 15000+200000
  8241 words of font info for 29 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 23i,6n,17p,448b,183s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10
-.pfb>
-Output written on itp2.pdf (4 pages, 98869 bytes).
+ 23i,6n,17p,448b,248s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+ti10.pfb>
+Output written on itp2.pdf (5 pages, 102799 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
+ 42 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
